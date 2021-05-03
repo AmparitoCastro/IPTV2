@@ -11,7 +11,7 @@ https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710
 
  
 #EXTINF:-1 tvg-name="TELEFE HD" tvg-logo="http://foromedios.com/uploads/gallery/category_7/gallery_11214_7_9114.png" group-title="Canales de aire",TELEFE
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CqAF85fdFN6UA4H9XLW5OpRl-uHh3r5MLrn3bU_A2A2J-A_jPreh2Zb-B6yjW7ryqO7Ch3KFqXWmm8ejnnREK8JoRllaYaM6zkL5J7Unaw5KVoGl5RIOX0x8ix-kwHJoHOpNYQXeWwf7FP2n5ntf22qcRSy8kWTj1E_rEQz-37LX24KbGFnM0mv7844oX2zVxp3UR7ASS5fLFa0Lyzv5PnMsxsNqxkg_0oxos6_zwVwc6zrUuUBi5U81fhns6G8p0wA0Fh6zQNg0m0Tyh3lTj0UXqUBX4cpcKTJjTITECCNcs5LH2g-R3rHx-fcb-nHTIC3X9TxqjnnpGPpwEmt7pmIbTm5PtAXRskVfZwt300hzMwbPrObLZoJqW-4uHysac7AlzPQGVTGMlz-dbaoOl9aVgli_Uj0-DezW7BWFk5CyJH-Q2iwIlaaddgDnPARovQBFZEwS88HI9urFjlnMZpVkI-MPEpRaQfcxcc4B7v2KeRGy-Y4GpbRtdaUn0XzDwQ0K-AWBMNGOHe_LToM8TUw1RiuAB0PCnWd7IamDTDcZyxfZXBcnv9cvPaTcxGMJjw1fGd9pPv04utrVLEaurhCZDvbjY3ijUZc123HuUCl539gsqHvThF4ecgmlda__-_yF3znDvo6C4A7HLy1fy_imxoHodtbDcc2FyjnZoMEcrH4Qwm-96uDndsn23KXbt8CH0e9SYIhfEPUUc3gFldc3lWBGOVAMMAY7MM1ALCZGUwV66LHYeSM4hYt_QnUEkzY46qTshJlSXJWHVN4YJnM9jdr_AUQ2AYV6f3_MGOu76hJsrc2CeKItaviuNIw-ocpwY3nQCXvxCU90Ygb-5EZoTuLjRunRNVzei_q6ONwI_eIwR09HohjUjamlyeJvvMTUEhABrtCSAUB6_tHoJBbEk8XiGgzF9PWN78Bi8-dwGvQ.m3u8
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Canales de aire",El Trece
 https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CqYFNVji3eAlWXRsipl1WSGb5ReIS5Y37fJYe5UgRx2GrGVDB2DpJKnlctSY8Unhg6EYlpx-zE9tbojJCuJ9QVZ4BOQD-BmCMi1JSs5jKzyehuVms-7ggenpimXPf6iagYv7DLMP-CzEGk1gyGRaWuehdRKLnqUW2LBEGG1PJW2z7-Q6IDgeR7mgH-JgMICiNEG3yAiWsTY7Y1b0t-09LfsGGRf5Hni4JZ2DWO9mhJHYKkN_RMc3I-ExkCsD_7NewbB90f2l9j5yY3rFVTK0iSezsH3-8aklg2t1JdVxuQ7BTJbyGR3E6XM-vQb9-XN7943eW_-W7A2wZxN775t56NCsUSsol7hVnD35jVfp8L79lzJMHSubuWvt_x6ll0EfQSa9wQW14rL79vlLfgrMJ94riF6M5tR5fnc9vOk_-p9K7Uy0lf1zfbyvF8uXnyGmDNVi-eZ21bhZXdVxG1NZ2Wk98IEBNQWgr4PWjeTfBryEUK5hI5KLUroDwyG0N5C2DXnr9f_cO6-VQA25USUFAv4BDHeb6yRDAVyYlY_B2Yr4Y6lTQ4hpPl2DT7-ON2XfscgTE0xVI8U-r41WUGdsc4Mf-tNc61-zhk3qgIVy7aR4pNhD7cr4NcV8rtyjFU6U6ZiZvMQ-ugbQUMw8gdwbgZuZjoaVF6MxXAfR1TjL20KD2VyCIZqUwqgL_exT0BTKYYD_Hv31NCGequSGaUc3qT9kY7CAE3KKJDeO8PAouJIifIJy4T1J78ZO6rMJMVRSMF-7ljkwiffu0HUAYvH-aw-bUKvyUHCKTOKWwumYG1rrxZWM9xxSO7sIyQGbYllo65of93WeZTr2EI54PQGXwHQ2YT4jL0rirgmImq8BXcUX9F292KYFdfAVzHvlGaKUPD0htdt0mjfEEhBMh458bk0Uh6aTTy3xIID8GgxzKLEg43haotE-prI.m3u8
@@ -19,11 +19,14 @@ https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CqYFNVji3eAlWXRsipl1WSGb5Re
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uYOLwOj.png" group-title="Mundo", El trece [Club]
 https://tv.teleclub.xyz/canal/ELTRECE.m3u8
  
-#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/709.png" group-title="NOTICIAS",C5N
-https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live
+#EXTINF:0 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3644.png" group-title="NOTICIAS",LN+
+https://www.youtube.com/watch?v=ns8-5XKA0Ww
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Tn_logo12.png/200px-Tn_logo12.png" group-title="NOTICIAS",Todo Noticias
 https://www.youtube.com/watch?v=wHn1_QVoXGM
+
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/709.png" group-title="NOTICIAS",C5N
+https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Cronica_TV.png" group-title="NOTICIAS",Cronica TV
 https://www.youtube.com/watch?v=etGhm_c5IBQ
@@ -37,7 +40,7 @@ EXTINF:0 tvg-logo="http://foromedios.com/uploads/gallery/category_7/gallery_1121
 EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/343.png" group-title="NOTICIAS",A24
 
  
-#EXTINF:0 tvg-logo="http://logo-load.com/uploads/posts/2016-03/1459426751_rt-logo.png" group-title="NOTICIAS",RT  *
+#EXTINF:0 tvg-logo="http://logo-load.com/uploads/posts/2016-03/1459426751_rt-logo.png" group-title="NOTICIAS",RT
 https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
  
 #EXTINF:0 tvg-logo="http://dtv.diputados.gob.ar/system/modules/ar.gov.hcdn/resources/img/DTV/logoDTV.png" group-title="ESTADO",Diputados TV
@@ -50,19 +53,19 @@ EXTINF:-1 tvg-id="TNT Sport" tvg-logo="https://tntsportsla.com/public/statics/im
 
  
 #EXTINF:0 tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAL7AAAAJDZmMzQyZjY5LWUxZTQtNDAyOS1iOGY0LTE0NzI0ZmU4MzM4NA.png" group-title="DEPORTES",TyC Sports
-
+https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CqAF_LGf86Cm2iYnvxLy6SwP-8Y03Ftd5BX-mRAI_AH7Vo_4DcP6ISnmAXJ3500tga-idL0HcQsS-Rb1lDWsyGPnomv2wHj6M1sMW3M2cYnvzrbTYt5VPBcnUE_3tkLwKRPdbu3GE0oxus3TYHygv_ht_r_J7HZXk97lpZsG9u311Rv3NaXGDNPwfsZTx1sbVN7kvRhtAhjFRjMhfdrd-Vc4bP2FRBDkCyGAEk92G3qbZcToDQl2I5WWnacmFmVnOCYY5qZ1SIyV2vEB3f9tkPvwXB-SrKsUQMEyq3raHwc3ArUf45DiH_snzltHYPIWeReiWbmX_-w5w91bEgLuABsLa1yfsvCIcUNoOGLhG6I4pYOFboA5HmE2uG_cW5RCm36YXtCJCtO9gQLepFIigW8bshqNWEx5iixsqZEfhDMOuSAtTqoUlTnySWIMtlhyfePre5JQGYbYy9hDa53lmYsRJXEhUjgEportCyHiesSTOt80ucLM4GKdVjZ_ozBmFyuV5lXj7ui3GrSk1HIUX_0jbJV_mQBZiQyJuFzBAsP6FN5ENqOCBWmTLamR4UuDKwefCJMXyJJyCEkBzE84uRqNgHZe1zxl7beNCCbvO00r7NGU6cptkktBl8lsqgdSSiCECKbe95VV6mTE_YvPzTDX0voJR9YFAL4dZSYEBmNT_5TWAri1FMIlFtezB1W97j-1C20VzPtCed_pXrn5IBiubP7TpaPRdS4xdWEe2qKws8_IWSamhhtFXFXLU9gvQFbN4H1ySpMq3qwbCKIeRsCCMQJvhqFMhHCFJ5ztYC3I8acaxiLnUPZYx-XcIxqyJXag2EpdiYr0niX_91G_FM_T195dLy00jVax8LZqrWw29hpkEXzBR280Wg8Gk0MO_eCMEhAk4dMobnijIsm3j1seNdSfGgxPMvR52EFxu5npDag.m3u8
  
 #EXTINF:0 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_5617_2_90249.png" group-title="DEPORTES",DeporTV
 http://186.33.227.199/DXTV/smil:DXTV.smil/chunklist_w1349879818_b800000_slesp.m3u8
  
 EXTINF:0 group-title="DEPORTES" tvg-logo="https://foromedios.com/uploads/gallery/album_2/med_gallery_1157_2_54617.png",Fox Sports  *
-http://premium.exabytetv.info/cable/484766obk34-------Esta-Lista-Es-Gratis---Visita-Facebook-Exabyte-TV-----/962/exabytetv.m3u8
+
  
 EXTINF:0 group-title="DEPORTES" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8e/Fox_Sports_2.png/revision/20160413221614",Fox Sports 2  *
-http://premium.exabytetv.info/cable/484766obk34-------Esta-Lista-Es-Gratis---Visita-Facebook-Exabyte-TV-----/958/exabytetv.m3u8
+
  
 EXTINF:0 group-title="DEPORTES" tvg-logo="https://foromedios.com/uploads/gallery/category_7/gallery_8863_7_4628.png",Fox Sports 3  *
-http://premium.exabytetv.info/cable/484766obk34-------Esta-Lista-Es-Gratis---Visita-Facebook-Exabyte-TV-----/959/exabytetv.m3u8
+
  
 #EXTINF:0 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/477.png" group-title="DOCUMENTALES",Encuentro
 http://contar-live.secure.footprint.net/hls-live/ionmicroremux-Encuentro/_definst_/live/stream3.m3u8
