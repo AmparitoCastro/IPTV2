@@ -22,40 +22,36 @@ https://tv.teleclub.xyz/canal/ELTRECE.m3u8
  
 #EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/709.png" group-title="NOTICIAS",C5N
 https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live
-(https://www.youtube.com/watch?v=kt43n3r1jJo)
-(tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG")
-(tvg-logo="https://scontent.faep3-1.fna.fbcdn.net/v/t1.0-1/20245679_10156062190155839_1047043359304201149_n.png?oh=2ba1d9b66d738a64b6885d471d50afaa&oe=5A192C25"
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Tn_logo12.png/200px-Tn_logo12.png" group-title="NOTICIAS",Todo Noticias
-https://www.youtube.com/watch?v=0tek2aa8hAQ
+https://www.youtube.com/watch?v=wHn1_QVoXGM
  
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Cronica_TV.png" group-title="NOTICIAS",Cronica TV  *
-http://premium.exabytetv.info/cable/345ft/1300/exabytetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Cronica_TV.png" group-title="NOTICIAS",Cronica TV
+https://www.youtube.com/watch?v=etGhm_c5IBQ
  
 #EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-WSfdALECnGU/VcYmaM7yHTI/AAAAAAAAPg4/sCwv6OV78zY/s1600/1i3qjKB.png" group-title="NOTICIAS",Canal 26 HD
 http://200.115.193.177/live/26hd-720/.m3u8
  
 EXTINF:0 tvg-logo="http://foromedios.com/uploads/gallery/category_7/gallery_11214_7_64790.png" group-title="NOTICIAS",360 TV
-http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+
  
-#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/343.png" group-title="NOTICIAS",A24
-https://vivoplay-i.akamaihd.net/hls/live/579609/tyc/master1000k.m3u8
-(tvg-logo="https://yt3.ggpht.com/-lXcUnjq0pPU/AAAAAAAAAAI/AAAAAAAAAAA/2AGPtVKpL50/s100-c-k-no-mo-rj-c0xffffff/photo.jpg)
+EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/343.png" group-title="NOTICIAS",A24
+
  
-EXTINF:0 tvg-logo="http://logo-load.com/uploads/posts/2016-03/1459426751_rt-logo.png" group-title="NOTICIAS",RT  *
-http://rt-a.akamaihd.net/ch_02@325606/master.m3u8
+#EXTINF:0 tvg-logo="http://logo-load.com/uploads/posts/2016-03/1459426751_rt-logo.png" group-title="NOTICIAS",RT  *
+https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
  
 #EXTINF:0 tvg-logo="http://dtv.diputados.gob.ar/system/modules/ar.gov.hcdn/resources/img/DTV/logoDTV.png" group-title="ESTADO",Diputados TV
-http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_2@301805/master.m3u8
+https://www.youtube.com/watch?v=r8I7EJwIn00
  
-#EXTINF:-1 tvg-id="FOX Sport Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Fox_Sports_Premium_Argentina_-_logo.png" group-title="DEPORTES", FOX Sport Premium
-http://tvpremiumhd.club/lista-gratuita/205011/tv/live.php?id=2987
+EXTINF:-1 tvg-id="FOX Sport Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Fox_Sports_Premium_Argentina_-_logo.png" group-title="DEPORTES", FOX Sport Premium
+
  
-#EXTINF:-1 tvg-id="TNT Sport" tvg-logo="https://tntsportsla.com/public/statics/images/share_logo.jpg" group-title="DEPORTES", TNT Sport
-http://tvpremiumhd.club/lista-gratuita/205011/tv/live.php?id=2988
+EXTINF:-1 tvg-id="TNT Sport" tvg-logo="https://tntsportsla.com/public/statics/images/share_logo.jpg" group-title="DEPORTES", TNT Sport
+
  
 #EXTINF:0 tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAL7AAAAJDZmMzQyZjY5LWUxZTQtNDAyOS1iOGY0LTE0NzI0ZmU4MzM4NA.png" group-title="DEPORTES",TyC Sports
-https://vivoplay-i.akamaihd.net/hls/live/579609/tyc/master1000k.m3u8
+
  
 #EXTINF:0 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_5617_2_90249.png" group-title="DEPORTES",DeporTV
 http://186.33.227.199/DXTV/smil:DXTV.smil/chunklist_w1349879818_b800000_slesp.m3u8
