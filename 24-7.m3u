@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvplusgratis.com/img/elchavo.png" group-title="24/7", El chavo del 8
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8?TVFLIXHD
