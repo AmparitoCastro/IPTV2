@@ -4,9 +4,9 @@
 http://sudaka.sytes.net:25461/cisco123/123cisco/15336
  
 #EXTINF:-1 tvg-id="" tvg-name="Tv Pública" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png" group-title="Canales de aire",TV Pública
-http://sudaka.sytes.net:25461/cisco123/123cisco/15325
 https://www.youtube.com/watch?v=M0L2tHs9TIQ
- 
+http://sudaka.sytes.net:25461/cisco123/123cisco/15325
+
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 9" tvg-name="Canal 9" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/96.png" group-title="Canales de aire",el nueve
 http://sudaka.sytes.net:25461/cisco123/123cisco/15333
  
@@ -23,6 +23,7 @@ http://sudaka.sytes.net:25461/cisco123/123cisco/15369
 http://sudaka.sytes.net:25461/cisco123/123cisco/15352
 
 #EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/709.png" group-title="NOTICIAS",C5N
+https://www.youtube.com/watch?v=kt43n3r1jJo
 http://sudaka.sytes.net:25461/cisco123/123cisco/15351
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/192.png" group-title="NOTICIAS",Cronica TV
