@@ -4,8 +4,7 @@
 http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24835
  
 #EXTINF:-1 tvg-id="" tvg-name="Tv Pública" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png" group-title="Canales de aire",TV Pública
-https://www.youtube.com/watch?v=M0L2tHs9TIQ
-http://sudaka.sytes.net:25461/cisco123/123cisco/15325
+http://tv.nousiptv.com:8080/daniel2/2daniel/8183
 
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 9" tvg-name="Canal 9" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/96.png" group-title="Canales de aire",el nueve
 http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24831
@@ -17,25 +16,25 @@ http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28948
 http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24832
  
 #EXTINF:0 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3644.png" group-title="NOTICIAS",LN+
-http://sudaka.sytes.net:25461/cisco123/123cisco/15369
+http://tv.nousiptv.com:8080/daniel2/2daniel/7976
  
 #EXTINF:0 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/36.png" group-title="NOTICIAS",TN
-http://sudaka.sytes.net:25461/cisco123/123cisco/15352
+http://tv.nousiptv.com:8080/daniel2/2daniel/18766
 
 #EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/709.png" group-title="NOTICIAS",C5N
-http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24834
+http://tv.nousiptv.com:8080/daniel2/2daniel/3441
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/192.png" group-title="NOTICIAS",Cronica TV
-http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24833
+http://tv.nousiptv.com:8080/daniel2/2daniel/4188
  
 #EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-WSfdALECnGU/VcYmaM7yHTI/AAAAAAAAPg4/sCwv6OV78zY/s1600/1i3qjKB.png" group-title="NOTICIAS",Canal 26 HD
-http://sudaka.sytes.net:25461/cisco123/123cisco/15350
+http://tv.nousiptv.com:8080/daniel2/2daniel/3442
  
 EXTINF:0 tvg-logo="http://foromedios.com/uploads/gallery/category_7/gallery_11214_7_64790.png" group-title="NOTICIAS",360 TV
 
 
 #EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/343.png" group-title="NOTICIAS",A24
-http://sudaka.sytes.net:25461/cisco123/123cisco/15339
+http://tv.nousiptv.com:8080/daniel2/2daniel/51073
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/302px-Russia-today-logo.svg.png" group-title="NOTICIAS",RT
 https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
