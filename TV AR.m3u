@@ -1,20 +1,20 @@
 #EXTM3U
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/175.png" group-title="Canales de aire",América TV
-http://sudaka.sytes.net:25461/cisco123/123cisco/15336
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24835
  
 #EXTINF:-1 tvg-id="" tvg-name="Tv Pública" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png" group-title="Canales de aire",TV Pública
 https://www.youtube.com/watch?v=M0L2tHs9TIQ
 http://sudaka.sytes.net:25461/cisco123/123cisco/15325
 
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 9" tvg-name="Canal 9" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/96.png" group-title="Canales de aire",el nueve
-http://sudaka.sytes.net:25461/cisco123/123cisco/15333
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24831
  
 #EXTINF:-1 tvg-name="TELEFE HD" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/35.png" group-title="Canales de aire",TELEFE
-http://sudaka.sytes.net:25461/cisco123/123cisco/15328
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28948
  
 #EXTINF:0 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/6.png" group-title="Canales de aire",El Trece
-http://sudaka.sytes.net:25461/cisco123/123cisco/15330
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24832
  
 #EXTINF:0 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3644.png" group-title="NOTICIAS",LN+
 http://sudaka.sytes.net:25461/cisco123/123cisco/15369
@@ -23,11 +23,10 @@ http://sudaka.sytes.net:25461/cisco123/123cisco/15369
 http://sudaka.sytes.net:25461/cisco123/123cisco/15352
 
 #EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/709.png" group-title="NOTICIAS",C5N
-https://www.youtube.com/watch?v=kt43n3r1jJo
-http://sudaka.sytes.net:25461/cisco123/123cisco/15351
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24834
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/192.png" group-title="NOTICIAS",Cronica TV
-http://sudaka.sytes.net:25461/cisco123/123cisco/15368
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24833
  
 #EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-WSfdALECnGU/VcYmaM7yHTI/AAAAAAAAPg4/sCwv6OV78zY/s1600/1i3qjKB.png" group-title="NOTICIAS",Canal 26 HD
 http://sudaka.sytes.net:25461/cisco123/123cisco/15350
@@ -45,22 +44,22 @@ https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 https://www.youtube.com/watch?v=r8I7EJwIn00
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/223.png" group-title="DEPORTES", FOX SPORT
-http://sudaka.sytes.net:25461/cisco123/123cisco/16959
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23530
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/978.png" group-title="DEPORTES", FOX SPORT 2
-http://sudaka.sytes.net:25461/cisco123/123cisco/16958
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24838
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/362.png" group-title="DEPORTES", FOX SPORT 3
-http://sudaka.sytes.net:25461/cisco123/123cisco/16960
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24839
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3951.png" group-title="DEPORTES", FOX SPORTS PREMIUM
-http://rv.therevenge.co:80/307211710273/307211710273/87099
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23538
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3950.png" group-title="DEPORTES", TNT SPORT
 http://rv.therevenge.co:80/307211710273/307211710273/87098
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/610.png" group-title="DEPORTES", DIRECT TV SPORTS
-http://rv.therevenge.co:80/307211710273/307211710273/87097
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24836
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/612.png" group-title="DEPORTES", DIRECT TV SPORTS 2
 http://rv.therevenge.co:80/307211710273/307211710273/87096
@@ -69,13 +68,13 @@ http://rv.therevenge.co:80/307211710273/307211710273/87096
 http://rv.therevenge.co:80/307211710273/307211710273/87095
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/18.png" group-title="DEPORTES", ESPN
-http://sudaka.sytes.net:25461/cisco123/123cisco/14005
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24840
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/229.png" group-title="DEPORTES", ESPN 2
-http://sudaka.sytes.net:25461/cisco123/123cisco/13916
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24841
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/2005.png" group-title="DEPORTES", ESPN 3
-http://sudaka.sytes.net:25461/cisco123/123cisco/16955
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24842
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/EspnB.png" group-title="DEPORTES", ESPN+
 http://rv.therevenge.co:80/307211710273/307211710273/87091
@@ -87,7 +86,7 @@ http://sudaka.sytes.net:25461/cisco123/123cisco/13983
 https://www.youtube.com/watch?v=ADkUE5ii8GA
  
 #EXTINF:0 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/477.png" group-title="DOCUMENTALES",Encuentro
-http://sudaka.sytes.net:25461/cisco123/123cisco/15347
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24829
  
 EXTINF:0 tvg-logo="http://www.tectv.gob.ar/resources/img/logo.png" group-title="DOCUMENTALES",TEC TV
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/index_3_av-p.m3u8?sd=10&rebase=on
@@ -118,3 +117,6 @@ http://eventshd-lh.akamaihd.net/i/viajar_1@168433/index_814_av-p.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/2332.png" group-title="ESTADO",Canal de la Ciudad
 http://rv.therevenge.co:80/307211710273/307211710273/87117
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/57.png" group-title="ESTADO",Argentinísima Satelital
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14589
