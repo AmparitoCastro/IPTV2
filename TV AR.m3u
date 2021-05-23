@@ -1,7 +1,7 @@
 #EXTM3U
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/175.png" group-title="Canales de aire",América TV
-http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24835
+http://tv.nousiptv.com:8080/daniel2/2daniel/27
  
 #EXTINF:-1 tvg-id="" tvg-name="Tv Pública" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png" group-title="Canales de aire",TV Pública
 http://tv.nousiptv.com:8080/daniel2/2daniel/8183
@@ -10,10 +10,10 @@ http://tv.nousiptv.com:8080/daniel2/2daniel/8183
 http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24831
  
 #EXTINF:-1 tvg-name="TELEFE HD" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/35.png" group-title="Canales de aire",TELEFE
-http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28948
+http://tv.nousiptv.com:8080/daniel2/2daniel/51071
  
 #EXTINF:0 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/6.png" group-title="Canales de aire",El Trece
-http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24832
+http://tv.nousiptv.com:8080/daniel2/2daniel/51070
  
 #EXTINF:0 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3644.png" group-title="NOTICIAS",LN+
 http://tv.nousiptv.com:8080/daniel2/2daniel/7976
@@ -25,7 +25,7 @@ http://tv.nousiptv.com:8080/daniel2/2daniel/18766
 http://tv.nousiptv.com:8080/daniel2/2daniel/3441
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/192.png" group-title="NOTICIAS",Cronica TV
-http://tv.nousiptv.com:8080/daniel2/2daniel/4188
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24833
  
 #EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-WSfdALECnGU/VcYmaM7yHTI/AAAAAAAAPg4/sCwv6OV78zY/s1600/1i3qjKB.png" group-title="NOTICIAS",Canal 26 HD
 http://tv.nousiptv.com:8080/daniel2/2daniel/3442
@@ -43,19 +43,19 @@ https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 https://www.youtube.com/watch?v=r8I7EJwIn00
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/223.png" group-title="DEPORTES", FOX SPORT
-http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23530
+http://tv.nousiptv.com:8080/daniel2/2daniel/1090738
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/978.png" group-title="DEPORTES", FOX SPORT 2
-http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24838
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23534
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/362.png" group-title="DEPORTES", FOX SPORT 3
-http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24839
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23535
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3951.png" group-title="DEPORTES", FOX SPORTS PREMIUM
 http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23538
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3950.png" group-title="DEPORTES", TNT SPORT
-http://rv.therevenge.co:80/307211710273/307211710273/87098
+http://tv.nousiptv.com:8080/daniel2/2daniel/33457
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/610.png" group-title="DEPORTES", DIRECT TV SPORTS
 http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24836
@@ -67,10 +67,10 @@ http://rv.therevenge.co:80/307211710273/307211710273/87096
 http://rv.therevenge.co:80/307211710273/307211710273/87095
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/18.png" group-title="DEPORTES", ESPN
-http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24840
+http://tv.nousiptv.com:8080/daniel2/2daniel/1090736
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/229.png" group-title="DEPORTES", ESPN 2
-http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24841
+http://tv.nousiptv.com:8080/daniel2/2daniel/1089695
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/2005.png" group-title="DEPORTES", ESPN 3
 http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24842
@@ -79,10 +79,10 @@ http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24842
 http://rv.therevenge.co:80/307211710273/307211710273/87091
 
 #EXTINF:0 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/40.png" group-title="DEPORTES",TyC Sports
-http://sudaka.sytes.net:25461/cisco123/123cisco/13983
+http://tv.nousiptv.com:8080/daniel2/2daniel/2961
  
 #EXTINF:0 tvg-logo="http://deportv.gob.ar/img/logo-header.png" group-title="DEPORTES",DeporTV
-https://www.youtube.com/watch?v=ADkUE5ii8GA
+http://tv.nousiptv.com:8080/daniel2/2daniel/29348
  
 #EXTINF:0 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/477.png" group-title="DOCUMENTALES",Encuentro
 http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24829
